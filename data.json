@@ -1,0 +1,1807 @@
+[
+    {
+        "index": 0,
+        "data": [
+            {
+                "position": {
+                    "cas": 1,
+                    "call": 0,
+                    "mak": 1,
+                    "deli": 1
+                },
+                "shopID": 15,
+                "day": 0,
+                "date": 18,
+                "month": 7,
+                "year": 2019,
+                "time": 960
+            },
+            {
+                "position": {
+                    "cas": 1,
+                    "call": 0,
+                    "mak": 1,
+                    "deli": 1
+                },
+                "shopID": 4,
+                "day": 2,
+                "date": 27,
+                "month": 10,
+                "year": 2019,
+                "time": 1080
+            }
+        ]
+    },
+    {
+        "index": 1,
+        "data": [
+            {
+                "position": {
+                    "cas": 3,
+                    "call": 0,
+                    "mak": 1,
+                    "deli": 2
+                },
+                "shopID": 6,
+                "day": 0,
+                "date": 12,
+                "month": 6,
+                "year": 2018,
+                "time": 360
+            }
+        ]
+    },
+    {
+        "index": 2,
+        "data": [
+            {
+                "position": {
+                    "cas": 0,
+                    "call": 1,
+                    "mak": 2,
+                    "deli": 1
+                },
+                "shopID": 14,
+                "day": 4,
+                "date": 29,
+                "month": 11,
+                "year": 2018,
+                "time": 0
+            },
+            {
+                "position": {
+                    "cas": 0,
+                    "call": 1,
+                    "mak": 2,
+                    "deli": 1
+                },
+                "shopID": 13,
+                "day": 1,
+                "date": 23,
+                "month": 1,
+                "year": 2020,
+                "time": 960
+            }
+        ]
+    },
+    {
+        "index": 3,
+        "data": [
+            {
+                "position": {
+                    "cas": 1,
+                    "call": 2,
+                    "mak": 0,
+                    "deli": 1
+                },
+                "shopID": 11,
+                "day": 1,
+                "date": 17,
+                "month": 11,
+                "year": 2018,
+                "time": 900
+            },
+            {
+                "position": {
+                    "cas": 1,
+                    "call": 2,
+                    "mak": 0,
+                    "deli": 1
+                },
+                "shopID": 9,
+                "day": 6,
+                "date": 12,
+                "month": 1,
+                "year": 2020,
+                "time": 540
+            },
+            {
+                "position": {
+                    "cas": 1,
+                    "call": 2,
+                    "mak": 0,
+                    "deli": 1
+                },
+                "shopID": 16,
+                "day": 3,
+                "date": 27,
+                "month": 6,
+                "year": 2021,
+                "time": 720
+            }
+        ]
+    },
+    {
+        "index": 4,
+        "data": [
+            {
+                "position": {
+                    "cas": 3,
+                    "call": 0,
+                    "mak": 3,
+                    "deli": 3
+                },
+                "shopID": 13,
+                "day": 2,
+                "date": 26,
+                "month": 9,
+                "year": 2020,
+                "time": 660
+            },
+            {
+                "position": {
+                    "cas": 3,
+                    "call": 0,
+                    "mak": 3,
+                    "deli": 3
+                },
+                "shopID": 6,
+                "day": 0,
+                "date": 29,
+                "month": 6,
+                "year": 2018,
+                "time": 600
+            }
+        ]
+    },
+    {
+        "index": 5,
+        "data": [
+            {
+                "position": {
+                    "cas": 1,
+                    "call": 1,
+                    "mak": 3,
+                    "deli": 3
+                },
+                "shopID": 6,
+                "day": 3,
+                "date": 10,
+                "month": 9,
+                "year": 2020,
+                "time": 1260
+            }
+        ]
+    },
+    {
+        "index": 6,
+        "data": [
+            {
+                "position": {
+                    "cas": 2,
+                    "call": 1,
+                    "mak": 1,
+                    "deli": 3
+                },
+                "shopID": 4,
+                "day": 0,
+                "date": 23,
+                "month": 10,
+                "year": 2020,
+                "time": 120
+            },
+            {
+                "position": {
+                    "cas": 2,
+                    "call": 1,
+                    "mak": 1,
+                    "deli": 3
+                },
+                "shopID": 15,
+                "day": 2,
+                "date": 29,
+                "month": 10,
+                "year": 2018,
+                "time": 780
+            }
+        ]
+    },
+    {
+        "index": 7,
+        "data": [
+            {
+                "position": {
+                    "cas": 0,
+                    "call": 1,
+                    "mak": 1,
+                    "deli": 2
+                },
+                "shopID": 14,
+                "day": 4,
+                "date": 10,
+                "month": 5,
+                "year": 2019,
+                "time": 300
+            }
+        ]
+    },
+    {
+        "index": 8,
+        "data": [
+            {
+                "position": {
+                    "cas": 1,
+                    "call": 1,
+                    "mak": 2,
+                    "deli": 1
+                },
+                "shopID": 4,
+                "day": 4,
+                "date": 13,
+                "month": 7,
+                "year": 2020,
+                "time": 240
+            }
+        ]
+    },
+    {
+        "index": 9,
+        "data": [
+            {
+                "position": {
+                    "cas": 0,
+                    "call": 3,
+                    "mak": 1,
+                    "deli": 0
+                },
+                "shopID": 11,
+                "day": 3,
+                "date": 28,
+                "month": 6,
+                "year": 2021,
+                "time": 1020
+            },
+            {
+                "position": {
+                    "cas": 0,
+                    "call": 3,
+                    "mak": 1,
+                    "deli": 0
+                },
+                "shopID": 8,
+                "day": 2,
+                "date": 10,
+                "month": 1,
+                "year": 2020,
+                "time": 540
+            }
+        ]
+    },
+    {
+        "index": 10,
+        "data": [
+            {
+                "position": {
+                    "cas": 2,
+                    "call": 2,
+                    "mak": 3,
+                    "deli": 0
+                },
+                "shopID": 6,
+                "day": 3,
+                "date": 27,
+                "month": 9,
+                "year": 2019,
+                "time": 120
+            },
+            {
+                "position": {
+                    "cas": 2,
+                    "call": 2,
+                    "mak": 3,
+                    "deli": 0
+                },
+                "shopID": 3,
+                "day": 3,
+                "date": 27,
+                "month": 11,
+                "year": 2021,
+                "time": 1140
+            }
+        ]
+    },
+    {
+        "index": 11,
+        "data": [
+            {
+                "position": {
+                    "cas": 3,
+                    "call": 2,
+                    "mak": 0,
+                    "deli": 3
+                },
+                "shopID": 10,
+                "day": 3,
+                "date": 25,
+                "month": 7,
+                "year": 2021,
+                "time": 60
+            },
+            {
+                "position": {
+                    "cas": 3,
+                    "call": 2,
+                    "mak": 0,
+                    "deli": 3
+                },
+                "shopID": 10,
+                "day": 2,
+                "date": 14,
+                "month": 9,
+                "year": 2020,
+                "time": 180
+            }
+        ]
+    },
+    {
+        "index": 12,
+        "data": [
+            {
+                "position": {
+                    "cas": 2,
+                    "call": 3,
+                    "mak": 1,
+                    "deli": 0
+                },
+                "shopID": 16,
+                "day": 5,
+                "date": 27,
+                "month": 5,
+                "year": 2019,
+                "time": 240
+            }
+        ]
+    },
+    {
+        "index": 13,
+        "data": [
+            {
+                "position": {
+                    "cas": 1,
+                    "call": 0,
+                    "mak": 3,
+                    "deli": 3
+                },
+                "shopID": 2,
+                "day": 6,
+                "date": 21,
+                "month": 10,
+                "year": 2019,
+                "time": 1260
+            }
+        ]
+    },
+    {
+        "index": 14,
+        "data": [
+            {
+                "position": {
+                    "cas": 2,
+                    "call": 3,
+                    "mak": 1,
+                    "deli": 1
+                },
+                "shopID": 12,
+                "day": 6,
+                "date": 4,
+                "month": 4,
+                "year": 2020,
+                "time": 900
+            },
+            {
+                "position": {
+                    "cas": 2,
+                    "call": 3,
+                    "mak": 1,
+                    "deli": 1
+                },
+                "shopID": 0,
+                "day": 5,
+                "date": 18,
+                "month": 8,
+                "year": 2020,
+                "time": 1320
+            }
+        ]
+    },
+    {
+        "index": 15,
+        "data": [
+            {
+                "position": {
+                    "cas": 0,
+                    "call": 1,
+                    "mak": 1,
+                    "deli": 0
+                },
+                "shopID": 8,
+                "day": 3,
+                "date": 21,
+                "month": 1,
+                "year": 2020,
+                "time": 180
+            }
+        ]
+    },
+    {
+        "index": 16,
+        "data": [
+            {
+                "position": {
+                    "cas": 3,
+                    "call": 1,
+                    "mak": 0,
+                    "deli": 2
+                },
+                "shopID": 0,
+                "day": 2,
+                "date": 25,
+                "month": 11,
+                "year": 2021,
+                "time": 1260
+            }
+        ]
+    },
+    {
+        "index": 17,
+        "data": [
+            {
+                "position": {
+                    "cas": 3,
+                    "call": 0,
+                    "mak": 0,
+                    "deli": 3
+                },
+                "shopID": 1,
+                "day": 5,
+                "date": 3,
+                "month": 1,
+                "year": 2021,
+                "time": 480
+            }
+        ]
+    },
+    {
+        "index": 18,
+        "data": [
+            {
+                "position": {
+                    "cas": 2,
+                    "call": 2,
+                    "mak": 2,
+                    "deli": 0
+                },
+                "shopID": 9,
+                "day": 0,
+                "date": 2,
+                "month": 4,
+                "year": 2018,
+                "time": 1380
+            }
+        ]
+    },
+    {
+        "index": 19,
+        "data": [
+            {
+                "position": {
+                    "cas": 2,
+                    "call": 3,
+                    "mak": 3,
+                    "deli": 1
+                },
+                "shopID": 3,
+                "day": 1,
+                "date": 8,
+                "month": 1,
+                "year": 2020,
+                "time": 1200
+            }
+        ]
+    },
+    {
+        "index": 20,
+        "data": [
+            {
+                "position": {
+                    "cas": 2,
+                    "call": 0,
+                    "mak": 1,
+                    "deli": 0
+                },
+                "shopID": 12,
+                "day": 2,
+                "date": 16,
+                "month": 3,
+                "year": 2018,
+                "time": 720
+            },
+            {
+                "position": {
+                    "cas": 2,
+                    "call": 0,
+                    "mak": 1,
+                    "deli": 0
+                },
+                "shopID": 4,
+                "day": 6,
+                "date": 29,
+                "month": 1,
+                "year": 2020,
+                "time": 1320
+            }
+        ]
+    },
+    {
+        "index": 21,
+        "data": [
+            {
+                "position": {
+                    "cas": 2,
+                    "call": 1,
+                    "mak": 2,
+                    "deli": 0
+                },
+                "shopID": 12,
+                "day": 5,
+                "date": 24,
+                "month": 1,
+                "year": 2018,
+                "time": 0
+            },
+            {
+                "position": {
+                    "cas": 2,
+                    "call": 1,
+                    "mak": 2,
+                    "deli": 0
+                },
+                "shopID": 12,
+                "day": 1,
+                "date": 6,
+                "month": 11,
+                "year": 2019,
+                "time": 1380
+            }
+        ]
+    },
+    {
+        "index": 22,
+        "data": [
+            {
+                "position": {
+                    "cas": 2,
+                    "call": 0,
+                    "mak": 3,
+                    "deli": 2
+                },
+                "shopID": 2,
+                "day": 1,
+                "date": 12,
+                "month": 4,
+                "year": 2020,
+                "time": 1140
+            }
+        ]
+    },
+    {
+        "index": 23,
+        "data": [
+            {
+                "position": {
+                    "cas": 3,
+                    "call": 2,
+                    "mak": 0,
+                    "deli": 0
+                },
+                "shopID": 5,
+                "day": 4,
+                "date": 13,
+                "month": 11,
+                "year": 2021,
+                "time": 300
+            }
+        ]
+    },
+    {
+        "index": 24,
+        "data": [
+            {
+                "position": {
+                    "cas": 3,
+                    "call": 3,
+                    "mak": 2,
+                    "deli": 3
+                },
+                "shopID": 12,
+                "day": 6,
+                "date": 15,
+                "month": 5,
+                "year": 2019,
+                "time": 840
+            }
+        ]
+    },
+    {
+        "index": 25,
+        "data": [
+            {
+                "position": {
+                    "cas": 2,
+                    "call": 0,
+                    "mak": 3,
+                    "deli": 1
+                },
+                "shopID": 4,
+                "day": 2,
+                "date": 26,
+                "month": 11,
+                "year": 2018,
+                "time": 900
+            }
+        ]
+    },
+    {
+        "index": 26,
+        "data": [
+            {
+                "position": {
+                    "cas": 3,
+                    "call": 2,
+                    "mak": 1,
+                    "deli": 2
+                },
+                "shopID": 13,
+                "day": 5,
+                "date": 10,
+                "month": 10,
+                "year": 2021,
+                "time": 1260
+            },
+            {
+                "position": {
+                    "cas": 3,
+                    "call": 2,
+                    "mak": 1,
+                    "deli": 2
+                },
+                "shopID": 12,
+                "day": 6,
+                "date": 10,
+                "month": 7,
+                "year": 2021,
+                "time": 240
+            }
+        ]
+    },
+    {
+        "index": 27,
+        "data": [
+            {
+                "position": {
+                    "cas": 3,
+                    "call": 0,
+                    "mak": 2,
+                    "deli": 3
+                },
+                "shopID": 4,
+                "day": 6,
+                "date": 5,
+                "month": 4,
+                "year": 2020,
+                "time": 780
+            }
+        ]
+    },
+    {
+        "index": 28,
+        "data": [
+            {
+                "position": {
+                    "cas": 2,
+                    "call": 3,
+                    "mak": 0,
+                    "deli": 2
+                },
+                "shopID": 7,
+                "day": 2,
+                "date": 9,
+                "month": 1,
+                "year": 2021,
+                "time": 420
+            }
+        ]
+    },
+    {
+        "index": 29,
+        "data": [
+            {
+                "position": {
+                    "cas": 3,
+                    "call": 0,
+                    "mak": 1,
+                    "deli": 0
+                },
+                "shopID": 6,
+                "day": 4,
+                "date": 19,
+                "month": 9,
+                "year": 2021,
+                "time": 720
+            }
+        ]
+    },
+    {
+        "index": 30,
+        "data": [
+            {
+                "position": {
+                    "cas": 3,
+                    "call": 0,
+                    "mak": 3,
+                    "deli": 1
+                },
+                "shopID": 4,
+                "day": 0,
+                "date": 13,
+                "month": 11,
+                "year": 2019,
+                "time": 780
+            }
+        ]
+    },
+    {
+        "index": 31,
+        "data": [
+            {
+                "position": {
+                    "cas": 0,
+                    "call": 1,
+                    "mak": 3,
+                    "deli": 0
+                },
+                "shopID": 10,
+                "day": 0,
+                "date": 27,
+                "month": 9,
+                "year": 2019,
+                "time": 600
+            }
+        ]
+    },
+    {
+        "index": 32,
+        "data": [
+            {
+                "position": {
+                    "cas": 0,
+                    "call": 1,
+                    "mak": 0,
+                    "deli": 1
+                },
+                "shopID": 5,
+                "day": 6,
+                "date": 3,
+                "month": 10,
+                "year": 2019,
+                "time": 180
+            }
+        ]
+    },
+    {
+        "index": 33,
+        "data": [
+            {
+                "position": {
+                    "cas": 0,
+                    "call": 3,
+                    "mak": 1,
+                    "deli": 2
+                },
+                "shopID": 3,
+                "day": 1,
+                "date": 19,
+                "month": 3,
+                "year": 2021,
+                "time": 1080
+            }
+        ]
+    },
+    {
+        "index": 34,
+        "data": [
+            {
+                "position": {
+                    "cas": 2,
+                    "call": 0,
+                    "mak": 2,
+                    "deli": 3
+                },
+                "shopID": 13,
+                "day": 6,
+                "date": 29,
+                "month": 3,
+                "year": 2020,
+                "time": 360
+            }
+        ]
+    },
+    {
+        "index": 35,
+        "data": [
+            {
+                "position": {
+                    "cas": 2,
+                    "call": 1,
+                    "mak": 0,
+                    "deli": 0
+                },
+                "shopID": 6,
+                "day": 6,
+                "date": 11,
+                "month": 3,
+                "year": 2020,
+                "time": 1320
+            },
+            {
+                "position": {
+                    "cas": 2,
+                    "call": 1,
+                    "mak": 0,
+                    "deli": 0
+                },
+                "shopID": 13,
+                "day": 3,
+                "date": 2,
+                "month": 4,
+                "year": 2019,
+                "time": 1140
+            }
+        ]
+    },
+    {
+        "index": 36,
+        "data": [
+            {
+                "position": {
+                    "cas": 0,
+                    "call": 2,
+                    "mak": 3,
+                    "deli": 1
+                },
+                "shopID": 2,
+                "day": 1,
+                "date": 24,
+                "month": 5,
+                "year": 2019,
+                "time": 720
+            }
+        ]
+    },
+    {
+        "index": 37,
+        "data": [
+            {
+                "position": {
+                    "cas": 1,
+                    "call": 1,
+                    "mak": 0,
+                    "deli": 3
+                },
+                "shopID": 11,
+                "day": 4,
+                "date": 12,
+                "month": 3,
+                "year": 2019,
+                "time": 780
+            }
+        ]
+    },
+    {
+        "index": 38,
+        "data": [
+            {
+                "position": {
+                    "cas": 3,
+                    "call": 1,
+                    "mak": 0,
+                    "deli": 0
+                },
+                "shopID": 10,
+                "day": 1,
+                "date": 7,
+                "month": 1,
+                "year": 2021,
+                "time": 960
+            }
+        ]
+    },
+    {
+        "index": 39,
+        "data": [
+            {
+                "position": {
+                    "cas": 3,
+                    "call": 2,
+                    "mak": 1,
+                    "deli": 0
+                },
+                "shopID": 10,
+                "day": 4,
+                "date": 9,
+                "month": 2,
+                "year": 2020,
+                "time": 240
+            },
+            {
+                "position": {
+                    "cas": 3,
+                    "call": 2,
+                    "mak": 1,
+                    "deli": 0
+                },
+                "shopID": 9,
+                "day": 5,
+                "date": 29,
+                "month": 7,
+                "year": 2020,
+                "time": 900
+            }
+        ]
+    },
+    {
+        "index": 40,
+        "data": [
+            {
+                "position": {
+                    "cas": 3,
+                    "call": 3,
+                    "mak": 2,
+                    "deli": 0
+                },
+                "shopID": 14,
+                "day": 1,
+                "date": 19,
+                "month": 8,
+                "year": 2020,
+                "time": 1380
+            }
+        ]
+    },
+    {
+        "index": 41,
+        "data": [
+            {
+                "position": {
+                    "cas": 3,
+                    "call": 1,
+                    "mak": 2,
+                    "deli": 0
+                },
+                "shopID": 5,
+                "day": 5,
+                "date": 26,
+                "month": 6,
+                "year": 2018,
+                "time": 360
+            }
+        ]
+    },
+    {
+        "index": 42,
+        "data": [
+            {
+                "position": {
+                    "cas": 3,
+                    "call": 1,
+                    "mak": 3,
+                    "deli": 2
+                },
+                "shopID": 16,
+                "day": 0,
+                "date": 3,
+                "month": 9,
+                "year": 2021,
+                "time": 1080
+            }
+        ]
+    },
+    {
+        "index": 43,
+        "data": [
+            {
+                "position": {
+                    "cas": 3,
+                    "call": 3,
+                    "mak": 1,
+                    "deli": 3
+                },
+                "shopID": 5,
+                "day": 5,
+                "date": 23,
+                "month": 8,
+                "year": 2019,
+                "time": 120
+            }
+        ]
+    },
+    {
+        "index": 44,
+        "data": [
+            {
+                "position": {
+                    "cas": 1,
+                    "call": 3,
+                    "mak": 0,
+                    "deli": 0
+                },
+                "shopID": 16,
+                "day": 4,
+                "date": 16,
+                "month": 8,
+                "year": 2019,
+                "time": 600
+            }
+        ]
+    },
+    {
+        "index": 45,
+        "data": [
+            {
+                "position": {
+                    "cas": 0,
+                    "call": 1,
+                    "mak": 1,
+                    "deli": 3
+                },
+                "shopID": 7,
+                "day": 6,
+                "date": 22,
+                "month": 6,
+                "year": 2018,
+                "time": 0
+            }
+        ]
+    },
+    {
+        "index": 46,
+        "data": [
+            {
+                "position": {
+                    "cas": 2,
+                    "call": 0,
+                    "mak": 1,
+                    "deli": 3
+                },
+                "shopID": 10,
+                "day": 3,
+                "date": 25,
+                "month": 3,
+                "year": 2018,
+                "time": 120
+            }
+        ]
+    },
+    {
+        "index": 47,
+        "data": [
+            {
+                "position": {
+                    "cas": 1,
+                    "call": 2,
+                    "mak": 2,
+                    "deli": 3
+                },
+                "shopID": 5,
+                "day": 3,
+                "date": 21,
+                "month": 11,
+                "year": 2018,
+                "time": 720
+            }
+        ]
+    },
+    {
+        "index": 48,
+        "data": [
+            {
+                "position": {
+                    "cas": 1,
+                    "call": 0,
+                    "mak": 0,
+                    "deli": 2
+                },
+                "shopID": 13,
+                "day": 5,
+                "date": 10,
+                "month": 7,
+                "year": 2020,
+                "time": 1140
+            },
+            {
+                "position": {
+                    "cas": 1,
+                    "call": 0,
+                    "mak": 0,
+                    "deli": 2
+                },
+                "shopID": 14,
+                "day": 3,
+                "date": 25,
+                "month": 4,
+                "year": 2021,
+                "time": 300
+            }
+        ]
+    },
+    {
+        "index": 49,
+        "data": [
+            {
+                "position": {
+                    "cas": 2,
+                    "call": 1,
+                    "mak": 1,
+                    "deli": 0
+                },
+                "shopID": 7,
+                "day": 4,
+                "date": 6,
+                "month": 10,
+                "year": 2019,
+                "time": 180
+            }
+        ]
+    },
+    {
+        "index": 50,
+        "data": [
+            {
+                "position": {
+                    "cas": 0,
+                    "call": 1,
+                    "mak": 0,
+                    "deli": 2
+                },
+                "shopID": 6,
+                "day": 4,
+                "date": 7,
+                "month": 1,
+                "year": 2018,
+                "time": 1380
+            }
+        ]
+    },
+    {
+        "index": 51,
+        "data": [
+            {
+                "position": {
+                    "cas": 0,
+                    "call": 1,
+                    "mak": 0,
+                    "deli": 0
+                },
+                "shopID": 0,
+                "day": 4,
+                "date": 9,
+                "month": 7,
+                "year": 2020,
+                "time": 540
+            }
+        ]
+    },
+    {
+        "index": 52,
+        "data": [
+            {
+                "position": {
+                    "cas": 1,
+                    "call": 2,
+                    "mak": 2,
+                    "deli": 0
+                },
+                "shopID": 2,
+                "day": 3,
+                "date": 13,
+                "month": 7,
+                "year": 2018,
+                "time": 1260
+            }
+        ]
+    },
+    {
+        "index": 53,
+        "data": [
+            {
+                "position": {
+                    "cas": 1,
+                    "call": 3,
+                    "mak": 2,
+                    "deli": 0
+                },
+                "shopID": 15,
+                "day": 3,
+                "date": 15,
+                "month": 3,
+                "year": 2021,
+                "time": 1080
+            }
+        ]
+    },
+    {
+        "index": 54,
+        "data": [
+            {
+                "position": {
+                    "cas": 2,
+                    "call": 1,
+                    "mak": 0,
+                    "deli": 3
+                },
+                "shopID": 0,
+                "day": 0,
+                "date": 26,
+                "month": 2,
+                "year": 2018,
+                "time": 1200
+            }
+        ]
+    },
+    {
+        "index": 55,
+        "data": [
+            {
+                "position": {
+                    "cas": 0,
+                    "call": 3,
+                    "mak": 2,
+                    "deli": 1
+                },
+                "shopID": 4,
+                "day": 2,
+                "date": 22,
+                "month": 11,
+                "year": 2019,
+                "time": 180
+            },
+            {
+                "position": {
+                    "cas": 0,
+                    "call": 3,
+                    "mak": 2,
+                    "deli": 1
+                },
+                "shopID": 16,
+                "day": 2,
+                "date": 29,
+                "month": 5,
+                "year": 2019,
+                "time": 480
+            }
+        ]
+    },
+    {
+        "index": 56,
+        "data": [
+            {
+                "position": {
+                    "cas": 0,
+                    "call": 2,
+                    "mak": 2,
+                    "deli": 1
+                },
+                "shopID": 7,
+                "day": 2,
+                "date": 2,
+                "month": 9,
+                "year": 2020,
+                "time": 120
+            }
+        ]
+    },
+    {
+        "index": 57,
+        "data": [
+            {
+                "position": {
+                    "cas": 3,
+                    "call": 3,
+                    "mak": 1,
+                    "deli": 1
+                },
+                "shopID": 15,
+                "day": 3,
+                "date": 8,
+                "month": 1,
+                "year": 2018,
+                "time": 1020
+            }
+        ]
+    },
+    {
+        "index": 58,
+        "data": [
+            {
+                "position": {
+                    "cas": 3,
+                    "call": 2,
+                    "mak": 1,
+                    "deli": 1
+                },
+                "shopID": 2,
+                "day": 6,
+                "date": 10,
+                "month": 9,
+                "year": 2018,
+                "time": 840
+            }
+        ]
+    },
+    {
+        "index": 59,
+        "data": [
+            {
+                "position": {
+                    "cas": 0,
+                    "call": 0,
+                    "mak": 1,
+                    "deli": 3
+                },
+                "shopID": 14,
+                "day": 3,
+                "date": 27,
+                "month": 8,
+                "year": 2021,
+                "time": 360
+            }
+        ]
+    },
+    {
+        "index": 60,
+        "data": [
+            {
+                "position": {
+                    "cas": 3,
+                    "call": 3,
+                    "mak": 3,
+                    "deli": 0
+                },
+                "shopID": 9,
+                "day": 6,
+                "date": 12,
+                "month": 11,
+                "year": 2019,
+                "time": 900
+            },
+            {
+                "position": {
+                    "cas": 3,
+                    "call": 3,
+                    "mak": 3,
+                    "deli": 0
+                },
+                "shopID": 7,
+                "day": 3,
+                "date": 15,
+                "month": 11,
+                "year": 2018,
+                "time": 840
+            }
+        ]
+    },
+    {
+        "index": 61,
+        "data": [
+            {
+                "position": {
+                    "cas": 0,
+                    "call": 0,
+                    "mak": 3,
+                    "deli": 2
+                },
+                "shopID": 1,
+                "day": 2,
+                "date": 10,
+                "month": 11,
+                "year": 2021,
+                "time": 180
+            },
+            {
+                "position": {
+                    "cas": 0,
+                    "call": 0,
+                    "mak": 3,
+                    "deli": 2
+                },
+                "shopID": 1,
+                "day": 3,
+                "date": 16,
+                "month": 10,
+                "year": 2020,
+                "time": 1020
+            }
+        ]
+    },
+    {
+        "index": 62,
+        "data": [
+            {
+                "position": {
+                    "cas": 2,
+                    "call": 2,
+                    "mak": 2,
+                    "deli": 2
+                },
+                "shopID": 11,
+                "day": 2,
+                "date": 17,
+                "month": 5,
+                "year": 2019,
+                "time": 840
+            }
+        ]
+    },
+    {
+        "index": 63,
+        "data": [
+            {
+                "position": {
+                    "cas": 0,
+                    "call": 2,
+                    "mak": 0,
+                    "deli": 2
+                },
+                "shopID": 6,
+                "day": 0,
+                "date": 19,
+                "month": 6,
+                "year": 2018,
+                "time": 900
+            }
+        ]
+    },
+    {
+        "index": 64,
+        "data": [
+            {
+                "position": {
+                    "cas": 2,
+                    "call": 1,
+                    "mak": 2,
+                    "deli": 3
+                },
+                "shopID": 9,
+                "day": 0,
+                "date": 25,
+                "month": 9,
+                "year": 2019,
+                "time": 1320
+            }
+        ]
+    },
+    {
+        "index": 65,
+        "data": [
+            {
+                "position": {
+                    "cas": 2,
+                    "call": 3,
+                    "mak": 3,
+                    "deli": 2
+                },
+                "shopID": 16,
+                "day": 2,
+                "date": 5,
+                "month": 4,
+                "year": 2018,
+                "time": 840
+            }
+        ]
+    },
+    {
+        "index": 66,
+        "data": [
+            {
+                "position": {
+                    "cas": 3,
+                    "call": 0,
+                    "mak": 0,
+                    "deli": 1
+                },
+                "shopID": 11,
+                "day": 3,
+                "date": 27,
+                "month": 7,
+                "year": 2020,
+                "time": 1020
+            }
+        ]
+    },
+    {
+        "index": 67,
+        "data": [
+            {
+                "position": {
+                    "cas": 2,
+                    "call": 1,
+                    "mak": 2,
+                    "deli": 1
+                },
+                "shopID": 10,
+                "day": 2,
+                "date": 14,
+                "month": 1,
+                "year": 2019,
+                "time": 360
+            }
+        ]
+    },
+    {
+        "index": 68,
+        "data": [
+            {
+                "position": {
+                    "cas": 2,
+                    "call": 0,
+                    "mak": 0,
+                    "deli": 2
+                },
+                "shopID": 10,
+                "day": 3,
+                "date": 23,
+                "month": 10,
+                "year": 2021,
+                "time": 780
+            }
+        ]
+    },
+    {
+        "index": 69,
+        "data": [
+            {
+                "position": {
+                    "cas": 2,
+                    "call": 3,
+                    "mak": 2,
+                    "deli": 0
+                },
+                "shopID": 6,
+                "day": 3,
+                "date": 2,
+                "month": 3,
+                "year": 2019,
+                "time": 900
+            }
+        ]
+    },
+    {
+        "index": 70,
+        "data": [
+            {
+                "position": {
+                    "cas": 0,
+                    "call": 2,
+                    "mak": 2,
+                    "deli": 0
+                },
+                "shopID": 11,
+                "day": 1,
+                "date": 1,
+                "month": 5,
+                "year": 2021,
+                "time": 480
+            }
+        ]
+    },
+    {
+        "index": 71,
+        "data": [
+            {
+                "position": {
+                    "cas": 2,
+                    "call": 0,
+                    "mak": 3,
+                    "deli": 0
+                },
+                "shopID": 2,
+                "day": 6,
+                "date": 12,
+                "month": 1,
+                "year": 2018,
+                "time": 180
+            }
+        ]
+    },
+    {
+        "index": 72,
+        "data": [
+            {
+                "position": {
+                    "cas": 1,
+                    "call": 3,
+                    "mak": 1,
+                    "deli": 1
+                },
+                "shopID": 12,
+                "day": 3,
+                "date": 2,
+                "month": 6,
+                "year": 2018,
+                "time": 960
+            }
+        ]
+    },
+    {
+        "index": 73,
+        "data": [
+            {
+                "position": {
+                    "cas": 3,
+                    "call": 1,
+                    "mak": 1,
+                    "deli": 3
+                },
+                "shopID": 5,
+                "day": 5,
+                "date": 17,
+                "month": 9,
+                "year": 2021,
+                "time": 360
+            }
+        ]
+    },
+    {
+        "index": 74,
+        "data": [
+            {
+                "position": {
+                    "cas": 0,
+                    "call": 3,
+                    "mak": 2,
+                    "deli": 3
+                },
+                "shopID": 16,
+                "day": 4,
+                "date": 18,
+                "month": 8,
+                "year": 2019,
+                "time": 420
+            }
+        ]
+    },
+    {
+        "index": 75,
+        "data": [
+            {
+                "position": {
+                    "cas": 3,
+                    "call": 3,
+                    "mak": 1,
+                    "deli": 2
+                },
+                "shopID": 14,
+                "day": 2,
+                "date": 10,
+                "month": 2,
+                "year": 2019,
+                "time": 180
+            }
+        ]
+    },
+    {
+        "index": 76,
+        "data": [
+            {
+                "position": {
+                    "cas": 1,
+                    "call": 1,
+                    "mak": 1,
+                    "deli": 3
+                },
+                "shopID": 7,
+                "day": 1,
+                "date": 18,
+                "month": 3,
+                "year": 2018,
+                "time": 660
+            }
+        ]
+    },
+    {
+        "index": 77,
+        "data": [
+            {
+                "position": {
+                    "cas": 1,
+                    "call": 2,
+                    "mak": 3,
+                    "deli": 1
+                },
+                "shopID": 14,
+                "day": 4,
+                "date": 16,
+                "month": 5,
+                "year": 2020,
+                "time": 1380
+            }
+        ]
+    },
+    {
+        "index": 78,
+        "data": [
+            {
+                "position": {
+                    "cas": 3,
+                    "call": 0,
+                    "mak": 2,
+                    "deli": 1
+                },
+                "shopID": 9,
+                "day": 1,
+                "date": 6,
+                "month": 7,
+                "year": 2020,
+                "time": 900
+            }
+        ]
+    },
+    {
+        "index": 79,
+        "data": [
+            {
+                "position": {
+                    "cas": 0,
+                    "call": 3,
+                    "mak": 2,
+                    "deli": 2
+                },
+                "shopID": 2,
+                "day": 5,
+                "date": 7,
+                "month": 4,
+                "year": 2021,
+                "time": 540
+            }
+        ]
+    },
+    {
+        "index": 80,
+        "data": [
+            {
+                "position": {
+                    "cas": 2,
+                    "call": 2,
+                    "mak": 2,
+                    "deli": 1
+                },
+                "shopID": 9,
+                "day": 2,
+                "date": 27,
+                "month": 11,
+                "year": 2018,
+                "time": 180
+            }
+        ]
+    }
+]

@@ -1,0 +1,11 @@
+{
+  "name": "jupyter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gen.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC"
+}
