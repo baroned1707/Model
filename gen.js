@@ -27,9 +27,9 @@ const genData = (length) => {
 	return data;
 };
 
-const groupByPosition = (data) => {
+const groupByPosition = (data, count) => {
 	var result = [];
-	data.map((item, i) => {
+	data.map((item, index) => {
 		if (result.length == 0) {
 			result.push({
 				index: result.length,
@@ -37,16 +37,13 @@ const groupByPosition = (data) => {
 			});
 		} else {
 			let check = true;
-			result.map((cur) => {
-				if (
-					cur.data.some(
-						(itemResult) => JSON.stringify(itemResult.position) === JSON.stringify(item.position),
-					)
-				) {
-					cur.data.push(item);
+			for (var i = 0; i < result.length; i++) {
+				if (JSON.stringify(result[i].data[0].position) === JSON.stringify(item.position)) {
+					result[i].data.push(item);
 					check = false;
+					break;
 				}
-			});
+			}
 			if (check) {
 				result.push({
 					index: result.length,
@@ -54,18 +51,21 @@ const groupByPosition = (data) => {
 				});
 			}
 		}
+		var pathFile = path.join(process.cwd(), "data.json");
+		fs.writeFileSync(pathFile, JSON.stringify(result));
 		console.clear();
-		console.log("Running to: ", ((i / data.length) * 100).toFixed(5), "%");
+		console.log("Running to index ", count, " : ", ((index / data.length) * 100).toFixed(5), "%");
 	});
 	return result;
 };
 
 const run = () => {
-	var pathFile = path.join(process.cwd(), "data.json");
-	var data = genData(10000000);
-	data = groupByPosition(data);
-	fs.writeFileSync(pathFile, JSON.stringify(data));
-	console.log("Gen data done with: ", data.length, " label");
+	for (var i = 0; i < 100; i++) {
+		var pathFile = path.join(process.cwd(), "data", `data${i}.json`);
+		var data = genData(100000);
+		data = groupByPosition(data, i);
+		fs.writeFileSync(pathFile, JSON.stringify(data));
+	}
 };
 
 run();
